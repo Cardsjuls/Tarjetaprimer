@@ -1,1 +1,7 @@
-{"name":"TusWebsite","short_name":"TusWebsite","description":"Dise\u00f1o y Desarrollo Web a Tu medida","icons":[{"src":"https:\/\/tuswebsite.com\/wp-content\/uploads\/2019\/01\/logo.png","sizes":"192x192","type":"image\/png"},{"src":"https:\/\/tuswebsite.com\/wp-content\/uploads\/2019\/01\/logo.png","sizes":"512x512","type":"image\/png"}],"background_color":"#f28100","theme_color":"#fe4d00","display":"standalone","orientation":"landscape","start_url":".","scope":"\/"}
+{"name":"TusWebsite","short_name":"TusWebsite",
+	"description":"Dise\u00f1o y Desarrollo Web a Tu medida",
+	"icons":[{"src":"https:\/\/tuswebsite.com\/wp-content\/uploads\/2019\/01\/logo.png","sizes":"192x192","type":"image\/png"},{"src":"https:\/\/tuswebsite.com\/wp-content\/uploads\/2019\/01\/logo.png","sizes":"512x512","type":"image\/png"}],
+"background_color":"#f28100","theme_color":"#fe4d00",
+"display":"standalone",
+"orientation":"landscape","start_url":".",
+"scope":"\/"}
